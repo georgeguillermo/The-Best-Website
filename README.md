@@ -1,0 +1,3 @@
+THIS IS MY FIRST PYTHON TEXT AVDENTURE PROJECT!!!!
+I think this took me way too long to finish...
+ENJOY!!!!!
